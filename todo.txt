@@ -1,0 +1,2 @@
+- to save categories in categories.txt
+- make the shelve loewpanel into a lower jscroll
